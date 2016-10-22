@@ -1,8 +1,3 @@
-//+------------------------------------------------------------------+
-//|                                            Expert_Part_Order.mq4 |
-//|                                       Copyright 2016, 21 October |
-//|                                                Teemofey@inbox.ru |
-//+------------------------------------------------------------------+
 #property copyright "Copyright 2016, 21 October"
 #property link      "Teemofey@inbox.ru"
 #property version   "1.00"
