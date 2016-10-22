@@ -1,6 +1,6 @@
 #property copyright "Copyright 2016, 19 October"
 #property link      "Teemofey@inbox.ru"
-#property version   "3.4"
+#property version   "3.5"
 #property strict
 #property show_inputs
 //+------------------------------------------------------------------+
