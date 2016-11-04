@@ -58,3 +58,4 @@ void OnChartEvent(const int id,
    ExtDialog.ChartEvent(id,lparam,dparam,sparam);
   }
 //+------------------------------------------------------------------+
+//Проверка-testing
